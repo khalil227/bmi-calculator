@@ -7,7 +7,9 @@ You can calculate it using the formula below, where weight divided by height squ
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot_2022-09-12-14-41-54-63_f73b71075b1de7323614b647fe394240](https://user-images.githubusercontent.com/64180671/189686008-dd792882-37ba-4573-a84c-31dfb70!
+[Screenshot_2022-09-12-14-41-58-57_f73b71075b1de7323614b647fe394240](https://user-images.githubusercontent.com/64180671/189686022-c5d7e4f2-9949-4296-89c2-1b4554647c23.jpg)
+738be.jpg)
 
 
 ## Authors
